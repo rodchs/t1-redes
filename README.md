@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # t1-redes
 =======
 # Redes — servidor HTTP, versão 1
